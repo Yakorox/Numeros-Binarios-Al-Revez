@@ -1,0 +1,4 @@
+C:\Users\Alejandro\Documents\GitHub\Numeros-Binarios-Al-Revez\BinarioAlrevez\BinarioAlrevez\bin\Debug\BinarioAlrevez.exe
+C:\Users\Alejandro\Documents\GitHub\Numeros-Binarios-Al-Revez\BinarioAlrevez\BinarioAlrevez\bin\Debug\BinarioAlrevez.pdb
+C:\Users\Alejandro\Documents\GitHub\Numeros-Binarios-Al-Revez\BinarioAlrevez\BinarioAlrevez\obj\x86\Debug\BinarioAlrevez.exe
+C:\Users\Alejandro\Documents\GitHub\Numeros-Binarios-Al-Revez\BinarioAlrevez\BinarioAlrevez\obj\x86\Debug\BinarioAlrevez.pdb
